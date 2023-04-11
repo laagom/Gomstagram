@@ -45,6 +45,11 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+
+    # CUSTOM APP
+    'content',
+    'user',
+    'gomstagram',
 ]
 
 MIDDLEWARE = [
